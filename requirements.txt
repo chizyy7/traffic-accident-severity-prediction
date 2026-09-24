@@ -1,0 +1,30 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+
+# Gradient Boosting
+xgboost==2.0.3
+lightgbm==4.5.0
+
+# Model Interpretability
+shap==0.45.1
+
+# Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+plotly==5.22.0
+
+# Web Application
+streamlit==1.37.1
+
+# Model Persistence
+joblib==1.4.2
+
+# Utilities
+tqdm==4.66.2
+python-dateutil==2.9.0.post0
+
+# For Jupyter notebooks (if used)
+jupyterlab==4.2.5
+notebook==7.2.2
